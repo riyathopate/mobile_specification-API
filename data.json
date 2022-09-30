@@ -329,7 +329,18 @@
     "e-commerce website link":"https://www.amazon.in/Vivo-V21e-8GB-RAM-128GB/dp/B08ZMTXWZD",
 
     },
-{
+     {
+    "Model name":"iPhone 11",
+    "company":"Apple",
+    "launch by date":"20 September 2019",
+    "front camera":"12MP",
+    "back camera":"12MP + 12MP",
+    "battery":"3110mAh",
+    
+    "e-commerce website link":"https://www.amazon.in/New-Apple-iPhone-11-64GB/dp/B08L8DV7BX",
+
+    },
+    {
     "Model name":"BlackBerry Leap",
     "company":"Blackberry",
     "launch by date":"4 March 2018",
@@ -337,7 +348,8 @@
     "back camera":"18MP",
     "battery":"2800mAh",
     
-    "e-commerce website link":"https://www.gsmarena.com/blackberry_leap-7099.php"
+    "e-commerce website link":"https://www.gsmarena.com/blackberry_leap-7099.php",
     },
+
 
 ]
