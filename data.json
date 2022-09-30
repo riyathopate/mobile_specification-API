@@ -38,16 +38,61 @@
     "battery":"5000mAh",
     
     "e-commerce website link":"https://www.po.co/global/product/poco-x4-pro-5g/"
+   
+    {
+    "Model name":"Redmi 9A",
+    "company":"Xiaomi",
+    "launch by date":"30th June 2020",
+    "front camera":"5MP",
+    "back camera":"13MP",
+    "battery":"5000mAh",
+    
+    "e-commerce website link":"https://www.mi.com/in/redmi-9a/"
     },
     
+ {
+        "Model name":"Samsung Galaxy S22 Ultra 5G",
+        "company":"Samsung",
+        "launch by date":"25 May 2022",
+        "front camera":"40MP",
+        "back camera":"108MP",
+        "battery":"4323mAh",
+    
+    "e-commerce website link":"https://www.amazon.in/Samsung-Galaxy-Phantom-Storage-Watch4/dp/B09SZTXHC4/ref=sr_1_2_sspa?adgrpid=68068634520&ext_vrnc=hi&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb_YrKXgjd25XdiSjPXejWc75IFbSojmzFthsaMKHGy7283WkeFjd4BoCII4QAvD_BwE&hvadid=398133391325&hvdev=c&hvlocphy=1007789&hvnetw=g&hvqmt=b&hvrand=9793012276296042905&hvtargid=kwd-1406521166826&hydadcr=24567_1971423&keywords=11%2Bredmi%2Bnote%2B11&qid=1664546618&qu=eyJxc2MiOiIyLjI5IiwicXNhIjoiMS42MyIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-2-spons&th=1"
+    },
     {
+
     "Model name":"Realme 9 Pro 5G",
     "company":"realme",
+    "Model name":"Redmi Note 11",
+    "company":"Redmi",
+    "launch by date":"11 January 2022",
+    "front camera":"13MP",
+    "back camera":"50MP",
+    "battery":"4323mAh",
+    
+    "e-commerce website link":"https://www.amazon.in/Redmi-Starburst-Qualcomm%C2%AE-SnapdragonTM-Included/dp/B09QS8WD3C/ref=sr_1_4?adgrpid=68068634520&ext_vrnc=hi&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb_YrKXgjd25XdiSjPXejWc75IFbSojmzFthsaMKHGy7283WkeFjd4BoCII4QAvD_BwE&hvadid=398133391325&hvdev=c&hvlocphy=1007789&hvnetw=g&hvqmt=b&hvrand=9793012276296042905&hvtargid=kwd-1406521166826&hydadcr=24567_1971423&keywords=11%2Bredmi%2Bnote%2B11&qid=1664546618&qu=eyJxc2MiOiIyLjI5IiwicXNhIjoiMS42MyIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-4&th=1"
+
+    },
+  {
+    "Model name":"Samsung",
+    "company":"Galaxy M53 5G",
+    "launch by date":"15feburary 2021",
+    "front camera":"64 MP",
+    "back camera":"16MP",
+    "battery":"5000mAh",
+    
+    "e-commerce website link":"https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwinip7Z1rz6AhXVCSsKHWJFBa0YABAHGgJzZg&ohost=www.google.com&cid=CAESauD2fz_LO6lPzZAjcyIrs8vk2GdKwxx-paATqJ2vf_vAgq7--3Ob3qWnhuuwzi-ahnIAFVCHcQTJfr9rSsY8zSBN4eJeFwRLaTTRvUlbqnQE6CB5bVgCxMVT81lzAyDLz5Y8GoD5OuHFwes&sig=AOD64_16UlYrj3LBHrTh_q1uPEdqt9g5Qw&ctype=5&q=&ved=2ahUKEwjCxpXZ1rz6AhW5TWwGHWsvBaIQ9aACKAB6BAgDEBw&adurl"
+    },
+   {
+    "Model name":"Realme 9 Pro 5G",
+    "company":"Realme",
     "launch by date":"28 feburary 2022",
     "front camera":"16MP",
     "back camera":"64MP",
     "battery":"5000mAh",
     
     "e-commerce website link":"https://www.realme.com/in/realme-9-pro"
-    }
+    },
+
 ]
