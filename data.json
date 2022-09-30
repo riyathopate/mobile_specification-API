@@ -18,7 +18,6 @@
         "battery":"4323mAh",
     
     "e-commerce website link":"https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwikkOS9kLr6AhURAHIKHWKDCD8YABAEGgJzZg&ohost=www.google.com&cid=CAESauD2pLY3yptcR8vZX71wvVWCLU0GvCvOosp0krY_G5Yn5YZuE4Ayx0-RPGRRZN8jvwZ4l-Ayy8GIfZCg1g_EuflQcUzwfM_0agdkoymWZR22eDqW24k5hK7ftbdUimUybUDPybE_9GXr06U&sig=AOD64_2V0I4Z-jgfsXfKkAVyRURP1Hgiag&q&adurl&ved=2ahUKEwiU3dm9kLr6AhWc-3MBHTnjCrcQ0Qx6BAgFEAM",
-    
     },
     {
     "Model name":"Realme 7",
@@ -135,9 +134,10 @@
     "front camera":"32MP",
     "back camera":"64MP",
     "battery":"4500mAh",
-
-  "e-commerce website link":"https://www.flipkart.com/Apple-14-PRO-mirror-blue-128-gb/p/itm72f96fb9b13c3"
+    
+    "e-commerce website link":"https://www.flipkart.com/realme-7-pro-mirror-blue-128-gb/p/itm72f96fb9b13c3",
     },
+ 
     {
     "Model name":"Oppo Reno 6 5G",
     "company":"Oppo",
@@ -147,8 +147,8 @@
     "battery":"4300mAh",
     
     "e-commerce website link":"https://www.flipkart.com/oppo-reno6-5g-stellar-black-128-gb/p/itmca351c97388b3?pid=MOBG4GFGZMU5HEUK&lid=LSTMOBG4GFGZMU5HEUKPIBLUV&marketplace=FLIPKART&q=oopo+reno+6&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=2e9c269a-5f7e-44b8-bef4-8b7b14dedeba.MOBG4GFGZMU5HEUK.SEARCH&ppt=pp&ppn=pp&ssid=tqiwca760w0000001664562323267&qH=10265b4751335430"
-  },
-  {
+    },
+    {
     "Model name":"One Plus Nord 2",
     "company":"One Plus",
     "launch by date":"28 July 2021",
@@ -259,9 +259,9 @@
     "front camera":"12MP",
     "back camera":"12MP + 12MP",
     "battery":"3227mAh",
-
+    
     "e-commerce website link":"https://www.apple.com/in/shop/buy-iphone/iphone-13",
-    },    
+    },    ,
     {
     "Model name":"Redmi Note 10 5G",
     "company":"MI",
@@ -269,37 +269,24 @@
     "front camera":"8MP",
     "back camera":"48MP",
     "battery":"5000mAh",
-
     },
-
-   {
+    {
     "Model name":"Reaalme 9 pro plus",
     "company":"Realme",
     "launch by date":"16 february 2022",
     "front camera":"16 MP",
     "back camera":"50 MP + 8 MP + 2 MP",
     "battery":"4500 mAh",
-
-    "e-commerce website link":"https://www.amazon.in/Realme-Aurora-Green-128GB-Storage/dp/B09SVDDWL4/ref=asc_df_B09SVDDWL4/?tag=googleshopdes-21&linkCode=df0&hvadid=586322031356&hvpos=&hvnetw=g&hvrand=4923522385147449990&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1658770845108&psc=1"
-    },
-   {
-    "Model name":"vivo v23",
-    "company":"vivo",
-    "launch by date":  "5 th january 2022",
-    
-    
-    "front camera":"50 MP",
-     "e-commerce website link":"https://www.reliancedigital.in/vivo-v23-5g-256-gb-12-gb-ram-sunshine-gold-mobile-phone/p/492574742",
+    "e-commerce website link":"https://www.amazon.in/Realme-Aurora-Green-128GB-Storage/dp/B09SVDDWL4/ref=asc_df_B09SVDDWL4/?tag=googleshopdes-21&linkCode=df0&hvadid=586322031356&hvpos=&hvnetw=g&hvrand=4923522385147449990&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1658770845108&psc=1",
     },
      {
-
     "Model name":"vivo v23",
     "company":"vivo",
     "launch by date":  "5 th january 2022"
-     "front camera":"50 MP",
+    "front camera":"50 MP",
     "back camera":"108 MP + 8 MP + 2 MP",
     "battery":"4200 mAh",
-
+    
     "e-commerce website link":"https://www.reliancedigital.in/vivo-v23-5g-256-gb-12-gb-ram-sunshine-gold-mobile-phone/p/492574742"
     },
     { 
@@ -312,24 +299,8 @@
     "battery":"4500 mAh",
 
     "e-commerce website link":"https://www.amazon.in/Realme-Aurora-Green-128GB-Storage/dp/B09SVDDWL4/ref=asc_df_B09SVDDWL4/?tag=googleshopdes-21&linkCode=df0&hvadid=586322031356&hvpos=&hvnetw=g&hvrand=4923522385147449990&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1658770845108&psc=1"
-
     },
-    {
-    "front camera":"16 MP",
-    "back camera":"50 MP + 8 MP + 2 MP",
-    "battery":"4500 mAh",
-    "e-commerce website link":"https://www.amazon.in/Realme-Aurora-Green-128GB-Storage/dp/B09SVDDWL4/ref=asc_df_B09SVDDWL4/?tag=googleshopdes-21&linkCode=df0&hvadid=586322031356&hvpos=&hvnetw=g&hvrand=4923522385147449990&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1658770845108&psc=1"
-    },
-    {
-        "Model name":"realme C31",
-        "company":"Realme",
-        "launch by date":"6th February 2020",
-        "front camera":"5 MP",
-        "back camera":"13MP + 2MP + 0.3MP",
-        "battery":"5000 mAh",
-        "e-commerce website link":"https://www.flipkart.com/realme-c31-light-silver-32-gb/p/itme0f2960da9bbb?pid=MOBGCGVA3DANQNQH&lid=LSTMOBGCGVA3DANQNQHPKNMV9&marketplace=FLIPKART&store=tyy%2F4io&srno=b_1_1&otracker=clp_metro_expandable_1_3.metroExpandable.METRO_EXPANDABLE_Shop%2BNow_mobile-phones-store_Q1PDG4YW86MF_wp2&fm=neo%2Fmerchandising&iid=1dd5e925-6e00-40cc-849b-15e0660f8000.MOBGCGVA3DANQNQH.SEARCH&ppt=clp&ppn=mobile-phones-store&ssid=1kuwtqplzk0000001664564284491"
-   },
-
+ 
     {
     "Model name":"poco m2 pro",
     "company":"MI",
@@ -339,7 +310,7 @@
     "battery":"5000mAh",
     
     "e-commerce website link":"https://www.amazon.in/Redmi-Note-10T-5G-Dimensity/dp/B097YGG9PQ/bdfhgsdhfggdfhgsdgfugsgusepuuegref=sr_1_3?adgrpid=1213861332280726&hvadid=75866465074139&hvbmt=be&hvdev=c&hvlocphy=161211&hvnetw=o&hvqmt=e&hvtargid=kwd-75866699045135%3Aloc-90&keywords=redmi+note+10+5g&qid=1664563311&qu=eyJxc2MiOiI0LjU5IiwicXNhIjoiNC4yMSIsInFzcCI6IjMuNTkifQ%3D%3",
-   },
+    },
 
     {
     "Model name":"Realme 8s 5g",
@@ -348,54 +319,10 @@
     "front camera":"16MP",
     "back camera":"64MP + 2MP +2MP",
     "battery":"5000mAh",
-
-    "e-commerce website link":"https://www.realme.com/in/realme-8s-5g"
-
-    },
-      {
-        "Model name":"NOKIA 2660",
-        "company":"NOKIA",
-        "launch by date":"30 september 2022",
-        "front camera":NULL,
-        "back camera":"0.3MP",
-        "battery":"1450mAh",
-    
-    "e-commerce website link":"https://www.croma.com/nokia-2660-flip-128mb-dual-sim-rear-camera-blue-/p/260712"
-    },
-
-   {
-    "Model name":"Realme 6",
-    "company":"Realme",
-    "launch by date":"5th March 2020",
-    "front camera":"16MP",
-    "back camera":"64MP + 8MP + 2MP + 2MP",
-    "battery":"4300mAh",
    
-    "e-commerce website link":"https://www.amazon.in/Realme-Comet-Blue-64-RAM/dp/B08DF9F814,
+    "e-commerce website link":"https://www.amazon.in/s?k=realme+x7+max+exchange+offer&adgrpid=1213861334164998&hvadid=75866465633356&hvadid=75866465633356&hvbmt=bb&hvbmt=bb&hvdev=c&hvdev=c&hvlocphy=161211&hvnetw=o&hvqmt=b&hvqmt=b&hvtargid=kwd-75866712764034%3Aloc-90&tag=msndeskstdin-21&tag=msndeskstdin-21&ref=pd_sl_3dh0f23bwm_b",
     
     },
-
-    {
-    "Model name":"Redmi Note 9 Pro Max",
-    "company":"Redmi",
-    "launch by date":"12th March 2020",
-    "front camera":"32MP",
-    "back camera":"64MP",
-    "battery":"5020mAh",
-    
-    "e-commerce website link":"https://www.amazon.in/Test-Exclusive-557/dp/B077PWJ8RS",
-    },
-    {
-    "Model name":"Iphone 13 mini",
-    "company":"Apple",
-    "launch by date":"September 2021",
-    "front camera":"12MP",
-    "back camera":"12MP + 12MP",
-    "battery":"2406mAh",
-   
-   "e-commerce website link":"https://www.apple.com/in/iphone-13/specs/"
-
-},
  {
     "Model name":"Vivo V21 5g",
     "company":"Vivo",
@@ -407,29 +334,6 @@
     "e-commerce website link":"https://www.amazon.in/Vivo-V21e-8GB-RAM-128GB/dp/B08ZMTXWZD",
 
     },
-
-     {
-    "Model name":"iPhone 11",
-    "company":"Apple",
-    "launch by date":"20 September 2019",
-    "front camera":"12MP",
-    "back camera":"12MP + 12MP",
-    "battery":"3110mAh",
-    
-    "e-commerce website link":"https://www.amazon.in/New-Apple-iPhone-11-64GB/dp/B08L8DV7BX",
-
-    },
-    {
-    "Model name":"BlackBerry Leap",
-    "company":"Blackberry",
-    "launch by date":"4 March 2018",
-    "front camera":"12MP",
-    "back camera":"18MP",
-    "battery":"2800mAh",
-    
-    "e-commerce website link":"https://www.gsmarena.com/blackberry_leap-7099.php",
-    },
-
 
     {
     "Model name":"VIVO V21E 5G",
@@ -443,16 +347,16 @@
 
     },
 
-
  {
-    "Model name":"Nokia",
-    "company":"NOKIA G21",
-    "launch by date":"4 March 2018",
-    "front camera":"10MP",
-    "back camera":"16MP",
-    "battery":"3000mAh",
+    "Model name":"realme 8s 5G",
+    "company":"Realme",
+    "launch by date":"133 September 2021",
+    "front camera":"16MP",
+    "back camera":"64MP + 8MP",
+    "battery":"6000mAh",
+    
+    "e-commerce website link":"https://www.flipkart.com/realme-8s-5g-universe-blue-128-gb/p/itm79fdf59bdbe44",
 
-    "e-commerce website link":"https://www.amazon.in/s?k=nokia+g21&adgrpid=65626075082&ext_vrnc=hi&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb3kT00s9d6xWYVulwu9gfPPQ8v4E9IgUWHjBLFC92XF9-PDojIpZ3BoCHAQQAvD_BwE&hvadid=398027847261&hvdev=c&hvlocphy=9299716&hvnetw=g&hvqmt=e&hvrand=16550253783869137770&hvtargid=kwd-1608242697032&hydadcr=26420_2176909&tag=googinhydr1-21&ref=pd_sl_3e594sdavm_e",
     },
     {
     "Model name":"OnePlus 10T 5G",
@@ -465,7 +369,17 @@
     "e-commerce website link":"https://www.oneplus.in/10t",
 
     },
-
+{
+    "Model name":"Redmi Note 11",
+    "company":"Redmi",
+    "launch by date":"26 January 2022",
+    "front camera":"13MP",
+    "back camera":"50MP + 8MP + 2MP + 2MP",
+    "battery":"5000mAh",
+    
+    "e-commerce website link":"https://www.reliancedigital.in/redmi-note-11-128-gb-6-gb-ram-twilight-blue-mobile-phone/p/492849129?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb3Jk3tLhpFjH0vQnciX6oo5J_Esj2wjo4P7L6Qo98yUPTqleS5_JfxoC1nEQAvD_BwE",
+    
+    },
     {
     "Model name":"OnePlus Nord cE",
     "company":"OnePlus",
@@ -516,6 +430,7 @@
         "battery":"6000mAh",
         "e-commerce website link":"https://www.reliancedigital.in/motorola-g71-128-gb-6-gb-ram-neptune-green-mobile-phone/p/492849087",
     },
+
 
 
 
