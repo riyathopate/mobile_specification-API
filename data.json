@@ -242,7 +242,17 @@
     
     "e-commerce website link":"https://www.apple.com/in/shop/buy-iphone/iphone-13"
     },
-    ,
+    {
+    "Model name":"OnePlus 10T 5G",
+    "company":"OnePlus",
+    "launch by date":"03 August 2022",
+    "front camera":"16MP",
+    "back camera":"50MP + 08MP + 02MP",
+    "battery":"4800mAh",
+    
+    "e-commerce website link":"https://www.oneplus.in/10t"
+
+    },
     {
     "Model name":"Redmi Note 10 5G",
     "company":"MI",
@@ -262,5 +272,6 @@
     "battery":"3687mAh",
     
     "e-commerce website link":"https://www.apple.com/in/newsroom/2020/10/apple-introduces-iphone-12-pro-and-iphone-12-pro-max-with-5g/"
+
     },
 ]
