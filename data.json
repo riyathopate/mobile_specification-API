@@ -135,11 +135,21 @@
     "back camera":"12MP",
     "battery":"4500mAh",
     
-
     "e-commerce website link":"https://www.flipkart.com/Apple-14-PRO-mirror-blue-128-gb/p/itm72f96fb9b13c3"
     },
+    {
+    "Model name":"Realme 6i",
+    "company":"Realme",
+    "launch by date": "July 31, 2020",
+    "front camera":"16MP",
+    "back camera":"48MP",
+    "battery":"5000mAh",
+    
+    "e-commerce website link":"https://www.amazon.in/Realme-6i-Lunar-White-RAM/dp/B08G8V8VCJ"
+    },
+        
      {
-        "Model name":"Oneplus 10 Pro",
+    "Model name":"Oneplus 10 Pro",
     "company":"Oneplus",
     "launch by date":"31 March 2022",
     "front camera":"32Mp",
@@ -148,6 +158,7 @@
     
     "e-commerce website link":"https://www.amazon.in/OnePlus-Volcanic-Black-128GB-Storage/dp/B09V2P9C3S"
     }
+
 
 
 
