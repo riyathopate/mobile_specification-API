@@ -38,6 +38,7 @@
     "battery":"5000mAh",
     
     "e-commerce website link":"https://www.po.co/global/product/poco-x4-pro-5g/"
+    },
    
     {
     "Model name":"Redmi 9A",
@@ -126,6 +127,16 @@
     
     "e-commerce website link":"https://www.flipkart.com/realme-7-pro-mirror-blue-128-gb/p/itm72f96fb9b13c3"
     },
+    {
+    "Model name":"OnePlus Nord 2T 5G ",
+    "company":"Oneplus",
+    "launch by date":"July 01, 2022",
+    "front camera":"32MP",
+    "back camera":"50MP",
+    "battery":"4500mAh",
+    
+    "e-commerce website link":"https://amzn.eu/d/djKRf4b"
+    }
 
     {
         "Model name":"Redmi Y3",
