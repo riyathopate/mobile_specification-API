@@ -465,6 +465,15 @@
     "e-commerce website link":"https://www.oneplus.in/10t",
 
     },
+{
+    "Model name":"Nokia 1100 ",
+    "company":"Nokia",
+    "launch by date":"2003",
+    "front camera":"Nil",
+    "back camera":"Nil",
+    "battery":"850 mAhh",
+    "e-commerce website link":"https://www.gsmarena.com/nokia_1100-512.php",
+    },
     {
         "Model name":"Motorola G71",
         "company":"Motorola",
@@ -472,9 +481,7 @@
         "front camera":"32MP",
         "back camera":"48MP + 8MP",
         "battery":"6000mAh",
-
         "e-commerce website link":"https://www.reliancedigital.in/motorola-g71-128-gb-6-gb-ram-neptune-green-mobile-phone/p/492849087",
-
     },
 
 ]
