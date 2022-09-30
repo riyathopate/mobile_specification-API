@@ -115,5 +115,18 @@
     
     "e-commerce website link":"https://www.flipkart.com/realme-7-pro-mirror-blue-128-gb/p/itm72f96fb9b13c3"
     }
+    ,
+    
+    {
+        "Model name":"Redmi Note 9 Pro Max",
+    "company":"Xiaomi Redmi",
+    "launch by date":"March 2020",
+    "front camera":"32MP",
+    "back camera":"64MP",
+    "battery":"5020mAh",
+    
+    "e-commerce website link":"https://www.mi.com/in/redmi-note-9-pro-max/"
+    }
+
 
 ]
