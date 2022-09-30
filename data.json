@@ -1,9 +1,9 @@
 [
     {
-    "Model name":"OnePlus Ace Pro",
-    "company":"OnePlus",
-    "launch by date":"9 august 2022",
-    "front camera":"16MP",
+    "Model name":"Nothing",
+    "company":"Omkar",
+    "launch by date":"10 january 2021",
+    "front camera":"10000MP",
     "back camera":"50MP",
     "battery":"4800mAh",
     
@@ -18,7 +18,6 @@
         "battery":"4323mAh",
     
     "e-commerce website link":"https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwikkOS9kLr6AhURAHIKHWKDCD8YABAEGgJzZg&ohost=www.google.com&cid=CAESauD2pLY3yptcR8vZX71wvVWCLU0GvCvOosp0krY_G5Yn5YZuE4Ayx0-RPGRRZN8jvwZ4l-Ayy8GIfZCg1g_EuflQcUzwfM_0agdkoymWZR22eDqW24k5hK7ftbdUimUybUDPybE_9GXr06U&sig=AOD64_2V0I4Z-jgfsXfKkAVyRURP1Hgiag&q&adurl&ved=2ahUKEwiU3dm9kLr6AhWc-3MBHTnjCrcQ0Qx6BAgFEAM",
-    
     },
     {
     "Model name":"Realme 7",
@@ -138,8 +137,18 @@
     
     "e-commerce website link":"https://www.flipkart.com/realme-7-pro-mirror-blue-128-gb/p/itm72f96fb9b13c3",
     },
-
-     {
+ 
+    {
+    "Model name":"Oppo Reno 6 5G",
+    "company":"Oppo",
+    "launch by date":"14 July 2021",
+    "front camera":"32MP",
+    "back camera":"64MP",
+    "battery":"4300mAh",
+    
+    "e-commerce website link":"https://www.flipkart.com/oppo-reno6-5g-stellar-black-128-gb/p/itmca351c97388b3?pid=MOBG4GFGZMU5HEUK&lid=LSTMOBG4GFGZMU5HEUKPIBLUV&marketplace=FLIPKART&q=oopo+reno+6&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=2e9c269a-5f7e-44b8-bef4-8b7b14dedeba.MOBG4GFGZMU5HEUK.SEARCH&ppt=pp&ppn=pp&ssid=tqiwca760w0000001664562323267&qH=10265b4751335430"
+    },
+    {
     "Model name":"One Plus Nord 2",
     "company":"One Plus",
     "launch by date":"28 July 2021",
@@ -250,9 +259,9 @@
     "front camera":"12MP",
     "back camera":"12MP + 12MP",
     "battery":"3227mAh",
-
+    
     "e-commerce website link":"https://www.apple.com/in/shop/buy-iphone/iphone-13",
-    },    
+    },    ,
     {
     "Model name":"Redmi Note 10 5G",
     "company":"MI",
@@ -260,42 +269,28 @@
     "front camera":"8MP",
     "back camera":"48MP",
     "battery":"5000mAh",
-
     },
-
-   {
+    {
     "Model name":"Reaalme 9 pro plus",
     "company":"Realme",
     "launch by date":"16 february 2022",
     "front camera":"16 MP",
     "back camera":"50 MP + 8 MP + 2 MP",
     "battery":"4500 mAh",
-
     "e-commerce website link":"https://www.amazon.in/Realme-Aurora-Green-128GB-Storage/dp/B09SVDDWL4/ref=asc_df_B09SVDDWL4/?tag=googleshopdes-21&linkCode=df0&hvadid=586322031356&hvpos=&hvnetw=g&hvrand=4923522385147449990&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1658770845108&psc=1",
-
     },
-      {
-    "Model name":"vivo v23",
-    "company":"vivo",
-    "launch by date":  "5 th january 2022"
-    
-    
-    "front camera":"50 MP",
-
-    },
-    
      {
-
     "Model name":"vivo v23",
     "company":"vivo",
     "launch by date":  "5 th january 2022"
-     "front camera":"50 MP",
+    "front camera":"50 MP",
     "back camera":"108 MP + 8 MP + 2 MP",
     "battery":"4200 mAh",
     
-    "e-commerce website link":"https://www.reliancedigital.in/vivo-v23-5g-256-gb-12-gb-ram-sunshine-gold-mobile-phone/p/492574742",
+    "e-commerce website link":"https://www.reliancedigital.in/vivo-v23-5g-256-gb-12-gb-ram-sunshine-gold-mobile-phone/p/492574742"
     },
     { 
+
     "Model name":"Reaalme 9 pro plus",
     "company":"Realme",
     "launch by date":"16 february 2022",
@@ -304,10 +299,7 @@
     "battery":"4500 mAh",
 
     "e-commerce website link":"https://www.amazon.in/Realme-Aurora-Green-128GB-Storage/dp/B09SVDDWL4/ref=asc_df_B09SVDDWL4/?tag=googleshopdes-21&linkCode=df0&hvadid=586322031356&hvpos=&hvnetw=g&hvrand=4923522385147449990&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1658770845108&psc=1"
-
     },
- 
-   
  
     {
     "Model name":"poco m2 pro",
@@ -318,7 +310,7 @@
     "battery":"5000mAh",
     
     "e-commerce website link":"https://www.amazon.in/Redmi-Note-10T-5G-Dimensity/dp/B097YGG9PQ/bdfhgsdhfggdfhgsdgfugsgusepuuegref=sr_1_3?adgrpid=1213861332280726&hvadid=75866465074139&hvbmt=be&hvdev=c&hvlocphy=161211&hvnetw=o&hvqmt=e&hvtargid=kwd-75866699045135%3Aloc-90&keywords=redmi+note+10+5g&qid=1664563311&qu=eyJxc2MiOiI0LjU5IiwicXNhIjoiNC4yMSIsInFzcCI6IjMuNTkifQ%3D%3",
-   },
+    },
 
     {
     "Model name":"Realme 8s 5g",
@@ -327,43 +319,10 @@
     "front camera":"16MP",
     "back camera":"64MP + 2MP +2MP",
     "battery":"5000mAh",
-
-    "e-commerce website link":"https://www.realme.com/in/realme-8s-5g"
-
-    },
-      {
-        "Model name":"NOKIA 2660",
-        "company":"NOKIA",
-        "launch by date":"30 september 2022",
-        "front camera":NULL,
-        "back camera":"0.3MP",
-        "battery":"1450mAh",
-    
-    "e-commerce website link":"https://www.croma.com/nokia-2660-flip-128mb-dual-sim-rear-camera-blue-/p/260712"
-    },
-
-   {
-    "Model name":"Realme 6",
-    "company":"Realme",
-    "launch by date":"5th March 2020",
-    "front camera":"16MP",
-    "back camera":"64MP + 8MP + 2MP + 2MP",
-    "battery":"4300mAh",
    
-    "e-commerce website link":"https://www.amazon.in/Realme-Comet-Blue-64-RAM/dp/B08DF9F814,
+    "e-commerce website link":"https://www.amazon.in/s?k=realme+x7+max+exchange+offer&adgrpid=1213861334164998&hvadid=75866465633356&hvadid=75866465633356&hvbmt=bb&hvbmt=bb&hvdev=c&hvdev=c&hvlocphy=161211&hvnetw=o&hvqmt=b&hvqmt=b&hvtargid=kwd-75866712764034%3Aloc-90&tag=msndeskstdin-21&tag=msndeskstdin-21&ref=pd_sl_3dh0f23bwm_b",
     
     },
-
-    {
-    "Model name":"Iphone 13 mini",
-    "company":"Apple",
-    "launch by date":"September 2021",
-    "front camera":"12MP",
-    "back camera":"12MP + 12MP",
-    "battery":"2406mAh",
-   
-   "e-commerce website link":"https://www.apple.com/in/iphone-13/specs/"
-},
  {
     "Model name":"Vivo V21 5g",
     "company":"Vivo",
@@ -420,7 +379,80 @@
     
     "e-commerce website link":"https://www.gsmarena.com/lenovo_legion_y70-11747.php",
 
-    }
+},
+{
+    "Model name":"Redmi Note 11",
+    "company":"Redmi",
+    "launch by date":"26 January 2022",
+    "front camera":"13MP",
+    "back camera":"50MP + 8MP + 2MP + 2MP",
+    "battery":"5000mAh",
+    
+    "e-commerce website link":"https://www.reliancedigital.in/redmi-note-11-128-gb-6-gb-ram-twilight-blue-mobile-phone/p/492849129?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb3Jk3tLhpFjH0vQnciX6oo5J_Esj2wjo4P7L6Qo98yUPTqleS5_JfxoC1nEQAvD_BwE",
+    
+    },
+    {
+    "Model name":"OnePlus Nord cE",
+    "company":"OnePlus",
+    "launch by date":"10th June 2021",
+    "front camera":"16MP",
+    "back camera":"64MP+8MP+2MP",
+    "battery":"5000mAh",
+    
+    "e-commerce website link":"https://www.amazon.in/Renewed-OnePlus-Nord-Charcoal-Storage/dp/B0992C9B69/ref=sr_1_7?crid=3EFNAUL6WFIPI&keywords=oneplus%2Bnord%2Bce&qid=1664565611&qu=eyJxc2MiOiIzLjczIiwicXNhIjoiMi42OCIsInFzcCI6IjIuMzMifQ%3D%3D&sprefix=oneplus%2Bnord%2Bc%2Caps%2C312&sr=8-7&th=1",
+
+    },
+
+    {
+    "Model name":"Samsung Galaxy S8",
+    "company":"Samasung",
+    "launch by date":"21 April 2017",
+    "front camera":"8MP",
+    "back camera":"12MP",
+    "battery":"3000 mAh",
+    "e-commerce website link":"https://www.samsung.com/us/mobile/phones/galaxy-s/galaxy-s8-64gb--unlocked--sm-g950uzkaxaa/",
+    },
+    {
+    "Model name":"Samsung A23",
+    "company":"Samsung",
+    "launch by date":"5th March 2022",
+    "front camera":"8MP",
+    "back camera":"50MP + 05MP + 02MP",
+    "battery":"5000mAh",
+    
+    "e-commerce website link":"https://www.samsung.com/in/smartphones/galaxy-a/galaxy-a23-light-blue-128gb-sm-a235flbtins/buy/?cid=in_pd_ppc_google_galaxy-Aseries_none_samsunggalaxyAseries-eshop-bau-performancemax_20220708_17679904716-----1ur-501349l-2022&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb8L8nw0to8DAR5F6QflJ9_n1kcxxB-M9orCkYzhF9SiiXgxt3vJsnxoCFzIQAvD_BwE",
+
+    },
+    {
+    "Model name":"Nokia 1100 ",
+    "company":"Nokia",
+    "launch by date":"2003",
+    "front camera":"Nil",
+    "back camera":"Nil",
+    "battery":"850 mAhh",
+    "e-commerce website link":"https://www.gsmarena.com/nokia_1100-512.php",
+    },
+    {
+        "Model name":"Motorola G71",
+        "company":"Motorola",
+        "launch by date":"29 october 2021",
+        "front camera":"32MP",
+        "back camera":"48MP + 8MP",
+        "battery":"6000mAh",
+        "e-commerce website link":"https://www.reliancedigital.in/motorola-g71-128-gb-6-gb-ram-neptune-green-mobile-phone/p/492849087",
+    },
+    
+        {
+        "Model name":"Samsung A50",
+        "company":"Samsung",
+        "launch by date":"15 April 2019",
+        "front camera":"25MP",
+        "back camera":"25MP + 5MP + 8mp",
+        "battery":"4000mAh",
+        "e-commerce website link":"https://www.gsmarena.com/samsung_galaxy_a50-9554.php",
+    },
+
+
 
 
 
