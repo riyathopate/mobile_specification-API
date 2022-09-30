@@ -39,7 +39,7 @@
     
     "e-commerce website link":"https://www.po.co/global/product/poco-x4-pro-5g/"
     },
-    {
+  {
     "Model name":"Samsung",
     "company":"Galaxy M53 5G",
     "launch by date":"15feburary 2021",
@@ -48,5 +48,14 @@
     "battery":"5000mAh",
     
     "e-commerce website link":"https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwinip7Z1rz6AhXVCSsKHWJFBa0YABAHGgJzZg&ohost=www.google.com&cid=CAESauD2fz_LO6lPzZAjcyIrs8vk2GdKwxx-paATqJ2vf_vAgq7--3Ob3qWnhuuwzi-ahnIAFVCHcQTJfr9rSsY8zSBN4eJeFwRLaTTRvUlbqnQE6CB5bVgCxMVT81lzAyDLz5Y8GoD5OuHFwes&sig=AOD64_16UlYrj3LBHrTh_q1uPEdqt9g5Qw&ctype=5&q=&ved=2ahUKEwjCxpXZ1rz6AhW5TWwGHWsvBaIQ9aACKAB6BAgDEBw&adurl="
-    }
+   {
+    "Model name":"Realme 9 Pro 5G",
+    "company":"Realme",
+    "launch by date":"28 feburary 2022",
+    "front camera":"16MP",
+    "back camera":"64MP",
+    "battery":"5000mAh",
+    
+    "e-commerce website link":"https://www.realme.com/in/realme-9-pro"
+    },
 ]
