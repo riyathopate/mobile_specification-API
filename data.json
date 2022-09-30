@@ -369,6 +369,17 @@
     "e-commerce website link":"https://www.oneplus.in/10t",
 
     },
+   {
+    "Model name":"Lenovo Legion Y70",
+    "company":"Lenovo",
+    "launch by date":"18 Augudt 2022",
+    "front camera":"16MP",
+    "back camera":"50MP + 13MP",
+    "battery":"5100mAh",
+    
+    "e-commerce website link":"https://www.gsmarena.com/lenovo_legion_y70-11747.php",
+
+},
 {
     "Model name":"Redmi Note 11",
     "company":"Redmi",
@@ -440,6 +451,7 @@
         "battery":"4000mAh",
         "e-commerce website link":"https://www.gsmarena.com/samsung_galaxy_a50-9554.php",
     },
+
 
 
 
