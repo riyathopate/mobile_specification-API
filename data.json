@@ -465,6 +465,19 @@
     "e-commerce website link":"https://www.oneplus.in/10t",
 
     },
+
+    {
+    "Model name":"OnePlus Nord cE",
+    "company":"OnePlus",
+    "launch by date":"10th June 2021",
+    "front camera":"16MP",
+    "back camera":"64MP+8MP+2MP",
+    "battery":"5000mAh",
+    
+    "e-commerce website link":"https://www.amazon.in/Renewed-OnePlus-Nord-Charcoal-Storage/dp/B0992C9B69/ref=sr_1_7?crid=3EFNAUL6WFIPI&keywords=oneplus%2Bnord%2Bce&qid=1664565611&qu=eyJxc2MiOiIzLjczIiwicXNhIjoiMi42OCIsInFzcCI6IjIuMzMifQ%3D%3D&sprefix=oneplus%2Bnord%2Bc%2Caps%2C312&sr=8-7&th=1",
+
+    },
+
     {
     "Model name":"Samsung Galaxy S8",
     "company":"Samasung",
@@ -503,6 +516,7 @@
         "battery":"6000mAh",
         "e-commerce website link":"https://www.reliancedigital.in/motorola-g71-128-gb-6-gb-ram-neptune-green-mobile-phone/p/492849087",
     },
+
 
 
 ]
