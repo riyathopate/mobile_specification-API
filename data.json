@@ -137,16 +137,7 @@
     
     "e-commerce website link":"https://www.flipkart.com/realme-7-pro-mirror-blue-128-gb/p/itm72f96fb9b13c3"
     },
-     {
-        "Model name":"One Plus Nord 2",
-    "company":"One Plus",
-    "launch by date":"28 July 2021",
-    "front camera":"32MP",
-    "back camera":"50MP",
-    "battery":"4500mAh",
-    
-    "e-commerce website link":"https://www.gsmarena.com/oneplus_nord_2_5g-10960.php"
-    },
+
      {
     "Model name":"S22ultra",
     "company":"Samsung",
@@ -248,6 +239,16 @@
     "front camera":"12MP",
     "back camera":"12MP + 12MP",
     "battery":"3227mAh",
+    
+    "e-commerce website link":"https://www.apple.com/in/shop/buy-iphone/iphone-13"
+    },
+    {
+    "Model name":"iPhone 1",
+    "company":"Apple",
+    "launch by date":"29 June 2007",
+    "front camera":"none",
+    "back camera":"2 mp",
+    "battery":"3.7 V 1400 mAh Lithium-ion battery",
     
     "e-commerce website link":"https://www.apple.com/in/shop/buy-iphone/iphone-13"
     },
