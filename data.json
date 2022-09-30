@@ -341,8 +341,17 @@
     "e-commerce website link":"https://www.croma.com/nokia-2660-flip-128mb-dual-sim-rear-camera-blue-/p/260712"
     },
 
-
+   {
+    "Model name":"Realme 6",
+    "company":"Realme",
+    "launch by date":"5th March 2020",
+    "front camera":"16MP",
+    "back camera":"64MP + 8MP + 2MP + 2MP",
+    "battery":"4300mAh",
    
+    "e-commerce website link":"https://www.amazon.in/Realme-Comet-Blue-64-RAM/dp/B08DF9F814,
+    
+    },
 
     {
     "Model name":"Iphone 13 mini",
@@ -400,6 +409,7 @@
     "e-commerce website link":"https://www.oneplus.in/10t",
 
     },
+
 
 
 ]
