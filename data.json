@@ -251,5 +251,27 @@
     "battery":"4800mAh",
     
     "e-commerce website link":"https://www.oneplus.in/10t"
+
+    },
+    {
+    "Model name":"Redmi Note 10 5G",
+    "company":"MI",
+    "launch by date":"4 March 2021",
+    "front camera":"8MP",
+    "back camera":"48MP",
+    "battery":"5000mAh",
+    
+    "e-commerce website link":"https://www.amazon.in/Redmi-Note-10T-5G-Dimensity/dp/B097YGG9PQ/ref=sr_1_3?adgrpid=1213861332280726&hvadid=75866465074139&hvbmt=be&hvdev=c&hvlocphy=161211&hvnetw=o&hvqmt=e&hvtargid=kwd-75866699045135%3Aloc-90&keywords=redmi+note+10+5g&qid=1664563311&qu=eyJxc2MiOiI0LjU5IiwicXNhIjoiNC4yMSIsInFzcCI6IjMuNTkifQ%3D%3D&sr=8-3"
+    },
+ {
+    "Model name":"iPhone 12 pro max",
+    "company":"Apple",
+    "launch by date":"13 October 2020",
+    "front camera":"12MP",
+    "back camera":"12MP + 12MP",
+    "battery":"3687mAh",
+    
+    "e-commerce website link":"https://www.apple.com/in/newsroom/2020/10/apple-introduces-iphone-12-pro-and-iphone-12-pro-max-with-5g/"
+
     },
 ]
