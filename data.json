@@ -127,6 +127,17 @@
     
     "e-commerce website link":"https://www.flipkart.com/realme-7-pro-mirror-blue-128-gb/p/itm72f96fb9b13c3"
     },
+
+     {
+    "Model name":"S22ultra",
+    "company":"Samsung",
+    "launch by date":"25 February 2022",
+    "front camera":"32MP",
+    "back camera":"64MP",
+    "battery":"5500mAh",
+    
+    "e-commerce website link":"https://www.flipkart.com/samsung-galaxy-s22-5g/p/itm6e7f384aea5ac"
+    },
     {
     "Model name":"OnePlus Nord 2T 5G ",
     "company":"Oneplus",
@@ -136,11 +147,9 @@
     "battery":"4500mAh",
     
     "e-commerce website link":"https://amzn.eu/d/djKRf4b"
-    }
-    ,
-    
+    },
     {
-        "Model name":"Redmi Note 9 Pro Max",
+    "Model name":"Redmi Note 9 Pro Max",
     "company":"Xiaomi Redmi",
     "launch by date":"March 2020",
     "front camera":"32MP",
@@ -148,11 +157,9 @@
     "battery":"5020mAh",
     
     "e-commerce website link":"https://www.mi.com/in/redmi-note-9-pro-max/"
-    }
-
-
+    },
     {
-        "Model name":"Redmi Y3",
+    "Model name":"Redmi Y3",
     "company":"Redmi",
     "launch by date":"April 2019",
     "front camera":"32MP",
@@ -171,8 +178,7 @@
     
     "e-commerce website link":"https://www.flipkart.com/Apple-14-PRO-mirror-blue-128-gb/p/itm72f96fb9b13c3"
     },
-
-     {
+    {
     "Model name":"Samsung f41",
     "company":"samsung",
     "launch by date":"8 October 2020",
@@ -194,7 +200,7 @@
     "e-commerce website link":"https://www.amazon.in/Realme-6i-Lunar-White-RAM/dp/B08G8V8VCJ"
     },
         
-     {
+    {
     "Model name":"Oneplus 10 Pro",
     "company":"Oneplus",
     "launch by date":"31 March 2022",
@@ -226,8 +232,4 @@
     
     "e-commerce website link":"https://www.apple.com/in/shop/buy-iphone/iphone-13"
     },
-
-
-
-
 ]
