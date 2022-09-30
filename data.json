@@ -101,31 +101,32 @@
     "front camera":"8MP",
     "back camera":"12MP",
     "battery":"3100mAh",
-    
-    "e-commerce website link":"https://www.apple.com/in/shop/buy-iphone/iphone-12"
+   
+   "e-commerce website link":"https://www.apple.com/in/shop/buy-iphone/iphone-12"
     },
     
     {
-        "Model name":"Realme 7pro",
+    "Model name":"Samsung Galaxy S20 FE",
+    "company":"Samsung",
+    "launch by date":"31st March 2021",
+    "front camera":"32MP",
+    "back camera":"12MP + 8MP + 12MP",
+    "battery":"4500mAh",
+  
+  "e-commerce website link":"https://www.amazon.in/Samsung-Galaxy-Cloud-128GB-Storage/dp/B08VB2MRF8/ref=sr_1_1_sspa?adgrpid=67547379568&ext_vrnc=hi&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4QY2pFT5twfgcES9AlGDy7urO0s3DP7DHcCTHGqlwqODrKNYfEXixoCdDcQAvD_BwE&hvadid=398060186608&hvdev=c&hvlocphy=1007789&hvnetw=g&hvqmt=b&hvrand=4740907838734480285&hvtargid=kwd-1020498413513&hydadcr=24569_1971431&keywords=samsung%2Bs21%2Bfe&qid=1664557524&qu=eyJxc2MiOiIzLjQ4IiwicXNhIjoiMy4zMSIsInFzcCI6IjEuMDAifQ%3D%3D&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDOVdSRklQNVNQSDMmZW5jcnlwdGVkSWQ9QTAxNzkxNDQ1NVMwSEJISVVCSDMmZW5jcnlwdGVkQWRJZD1BMDQ2OTMzNTFVSjYyUUxTSEY4Tkomd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1"
+    },
+   
+    {
+    "Model name":"Apple 14 PRO",
     "company":"Realme",
     "launch by date":"3 September 2020",
     "front camera":"32MP",
     "back camera":"64MP",
     "battery":"4500mAh",
-    
-    "e-commerce website link":"https://www.flipkart.com/realme-7-pro-mirror-blue-128-gb/p/itm72f96fb9b13c3"
-    },
-    
-    {
-        "Model name":"Apple 14 PRO",
-    "company":"Realme",
-    "launch by date":"3 September 2020",
-    "front camera":"32MP",
-    "back camera":"64MP",
-    "battery":"4500mAh",
-    
-    "e-commerce website link":"https://www.flipkart.com/Apple-14-PRO-mirror-blue-128-gb/p/itm72f96fb9b13c3"
+  
+  "e-commerce website link":"https://www.flipkart.com/Apple-14-PRO-mirror-blue-128-gb/p/itm72f96fb9b13c3"
     }
+
 
 
 ]
