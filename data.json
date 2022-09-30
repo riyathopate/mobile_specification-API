@@ -355,6 +355,16 @@
     },
 
     {
+    "Model name":"Redmi Note 9 Pro Max",
+    "company":"Redmi",
+    "launch by date":"12th March 2020",
+    "front camera":"32MP",
+    "back camera":"64MP",
+    "battery":"5020mAh",
+    
+    "e-commerce website link":"https://www.amazon.in/Test-Exclusive-557/dp/B077PWJ8RS",
+    },
+    {
     "Model name":"Iphone 13 mini",
     "company":"Apple",
     "launch by date":"September 2021",
@@ -363,6 +373,7 @@
     "battery":"2406mAh",
    
    "e-commerce website link":"https://www.apple.com/in/iphone-13/specs/"
+
 },
  {
     "Model name":"Vivo V21 5g",
@@ -376,6 +387,29 @@
 
     },
 
+     {
+    "Model name":"iPhone 11",
+    "company":"Apple",
+    "launch by date":"20 September 2019",
+    "front camera":"12MP",
+    "back camera":"12MP + 12MP",
+    "battery":"3110mAh",
+    
+    "e-commerce website link":"https://www.amazon.in/New-Apple-iPhone-11-64GB/dp/B08L8DV7BX",
+
+    },
+    {
+    "Model name":"BlackBerry Leap",
+    "company":"Blackberry",
+    "launch by date":"4 March 2018",
+    "front camera":"12MP",
+    "back camera":"18MP",
+    "battery":"2800mAh",
+    
+    "e-commerce website link":"https://www.gsmarena.com/blackberry_leap-7099.php",
+    },
+
+
     {
     "Model name":"VIVO V21E 5G",
     "company":"VIVO",
@@ -388,16 +422,16 @@
 
     },
 
- {
-    "Model name":"realme 8s 5G",
-    "company":"Realme",
-    "launch by date":"133 September 2021",
-    "front camera":"16MP",
-    "back camera":"64MP + 8MP",
-    "battery":"6000mAh",
-    
-    "e-commerce website link":"https://www.flipkart.com/realme-8s-5g-universe-blue-128-gb/p/itm79fdf59bdbe44",
 
+ {
+    "Model name":"Nokia",
+    "company":"NOKIA G21",
+    "launch by date":"4 March 2018",
+    "front camera":"10MP",
+    "back camera":"16MP",
+    "battery":"3000mAh",
+
+    "e-commerce website link":"https://www.amazon.in/s?k=nokia+g21&adgrpid=65626075082&ext_vrnc=hi&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb3kT00s9d6xWYVulwu9gfPPQ8v4E9IgUWHjBLFC92XF9-PDojIpZ3BoCHAQQAvD_BwE&hvadid=398027847261&hvdev=c&hvlocphy=9299716&hvnetw=g&hvqmt=e&hvrand=16550253783869137770&hvtargid=kwd-1608242697032&hydadcr=26420_2176909&tag=googinhydr1-21&ref=pd_sl_3e594sdavm_e",
     },
     {
     "Model name":"OnePlus 10T 5G",
@@ -410,7 +444,6 @@
     "e-commerce website link":"https://www.oneplus.in/10t",
 
     },
-
 
 
 ]
